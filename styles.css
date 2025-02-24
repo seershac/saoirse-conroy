@@ -87,7 +87,7 @@ footer {
 }
 
 a {
-    color: var(--teal);
+    color: var(--navy);
     text-decoration: none;
     transition: color 0.3s ease;
 }
